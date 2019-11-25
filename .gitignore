@@ -1,0 +1,5 @@
+*.sqlite3
+*.py[cdo]
+__pycache__/
+*.log
+
